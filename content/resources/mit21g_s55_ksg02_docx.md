@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/21g-s55-japanese-v-fall-2022/mit21g_s55_ksg02.docx
+file: /ol-ocw-studio-app/courses/21g-s55-japanese-v-fall-2022/mit21g_s55_ksg02.docx
 file_size: 17143
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
