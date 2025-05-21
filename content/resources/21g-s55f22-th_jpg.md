@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21g-s55-japanese-v-fall-2022/21g-s55f22-th.jpg
+file: courses/japanese-v/21g-s55f22-th.jpg
 file_size: 418942
 file_type: image/jpeg
 image_metadata:
