@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/japanese-v/mit21g_s55_grammar01.pdf
+file: /ol-ocw-studio-app/courses/21g-s55-japanese-v-fall-2022/mit21g_s55_grammar01.pdf
 file_size: 3028787
 file_type: application/pdf
 image_metadata:

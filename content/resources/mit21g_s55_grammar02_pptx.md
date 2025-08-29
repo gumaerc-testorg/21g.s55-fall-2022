@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/japanese-v/mit21g_s55_grammar02.pptx
+file: /ol-ocw-studio-app/courses/21g-s55-japanese-v-fall-2022/mit21g_s55_grammar02.pptx
 file_size: 661778
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Editable Files
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: Japanese V Grammar Notes for Tobira Lesson 2 (PPT)
@@ -21,6 +21,7 @@ video_files:
   video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
+  source: ''
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
