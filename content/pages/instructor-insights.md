@@ -31,11 +31,11 @@ In coming years, I plan to integrate generative AI tools such as ChatGPT into my
 
 **OCW:** What can you tell us about the multimedia presentations that students in the class created as part of the project component of the course?
 
-**Takako Aikawa:** The topics of my students' projects varied, with about 30% focusing on Japanese food and another 30% on Japanese pop culture (e.g., {{% resource_link "e615d383-4a5f-4bb7-aca0-439cf5018a6e" "Vocaloid" %}} and {{% resource_link "c2e2200a-a7f8-4279-aaf9-cc881db1eeee" "anime" %}}). Most presentations utilized PowerPoint, along with YouTube videos.
+**Takako Aikawa:** The topics of my students' projects varied, with about 30% focusing on Japanese food and another 30% on Japanese pop culture (e.g., [Vocaloid](https://en.wikipedia.org/wiki/Vocaloid) and [anime](https://en.wikipedia.org/wiki/Anime)). Most presentations utilized PowerPoint, along with YouTube videos.
 
 **OCW**: What would you like to share about teaching 21G.S55 that we haven’t yet addressed?
 
-**Takako Aikawa:** In 21G.S55 and 21G.S56, we host two Zoom sessions per semester where MIT {{% resource_link "0cb39d98-6777-41cf-8594-8cacbaf060fa" "SDM" %}} students, sponsored by the Japanese government or companies, join and interact with my students. Additionally, I've collaborated with a professor from University of Tokyo to facilitate a language exchange tandem session (30 minutes in Japanese and 30 minutes in English). This is voluntary but usually attracts about 50% of my students. 
+**Takako Aikawa:** In 21G.S55 and 21G.S56, we host two Zoom sessions per semester where MIT [SDM](https://sdm.mit.edu/) students, sponsored by the Japanese government or companies, join and interact with my students. Additionally, I've collaborated with a professor from University of Tokyo to facilitate a language exchange tandem session (30 minutes in Japanese and 30 minutes in English). This is voluntary but usually attracts about 50% of my students. 
 
 These activities are enabled by Zoom, and they offer valuable real-life interaction with Japanese speakers, an aspect I hope to expand in future classes.
 
@@ -55,11 +55,11 @@ The students' grades were based on the following activities:
 
 ### Prerequisites
 
-{{% resource_link "8c992178-e009-474b-8156-2e2ee58d5474" "*21G.504 Japanese IV*" %}}
+[*21G.504 Japanese IV*](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/)
 
 ### Requirements Satisfied
 
-21G.S55 can be applied toward a {{% resource_link "164ca9a6-0254-40bf-a639-6caa68056e6d" "minor in Japanese" %}} or a {{% resource_link "c4bf83a6-190c-48ab-86f8-4a236fe2c4da" "HASS Concentration in Japanese" %}}, but is not required.
+21G.S55 can be applied toward a [minor in Japanese](https://catalog.mit.edu/schools/humanities-arts-social-sciences/global-studies-languages/#japanese-minor) or a [HASS Concentration in Japanese](https://languages.mit.edu/academic-programs/), but is not required.
 
 ### Offered
 
@@ -81,7 +81,7 @@ A mix of engineering, computer science, math, and physics majors, with the large
 
 ### Typical Student Background
 
-Students in the class had already completed {{% resource_link "3557c2b8-e69a-498b-b6fa-5f7010d8f07e" "21G.501 Japanese I" %}}, {{% resource_link "1125f293-07a1-402d-b995-167f5d8f7503" "21G.502 Japanese II" %}}, {{% resource_link "d9f5764c-07fb-4745-8136-2b6d77ca21b9" "21G.503 Japanese III" %}}, and {{% resource_link "8c992178-e009-474b-8156-2e2ee58d5474" "21G.504 Japanese IV" %}} at MIT or had equivalent experience of 2 years of Japanese learning.
+Students in the class had already completed [21G.501 Japanese I](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/), [21G.502 Japanese II](https://ocw.mit.edu/courses/21g-502-japanese-ii-spring-2020/), [21G.503 Japanese III](https://ocw.mit.edu/courses/21g-503-japanese-iii-fall-2019/), and [21G.504 Japanese IV](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/) at MIT or had equivalent experience of 2 years of Japanese learning.
 
 ## How Student Time Was Spent
 
