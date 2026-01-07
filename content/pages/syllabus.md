@@ -12,11 +12,11 @@ Lectures: 3 sessions / week, 80 minutes / in-person session, 45 minutes / virtua
 
 ## Prerequisite
 
-{{% resource_link "8c992178-e009-474b-8156-2e2ee58d5474" "*21G.504 Japanese IV*" %}}
+[*21G.504 Japanese IV*](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/)
 
 ## Textbook
 
-Mayumi Oka et al., {{% resource_link "c18d26b2-6087-4d2c-9f5a-0e80251d3c26" "Tobira: Gateway to Advanced Japanese Learning through Content and Multimedia" %}}, Kurosio Publishing (2009).
+Mayumi Oka et al., [Tobira: Gateway to Advanced Japanese Learning through Content and Multimedia](https://tobiraweb.9640.jp/), Kurosio Publishing (2009).
 
 ## Course Description
 
